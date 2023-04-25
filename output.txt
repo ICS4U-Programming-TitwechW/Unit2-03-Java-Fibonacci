@@ -1,0 +1,7 @@
+The answer is 3
+The answer is 1
+The answer is 3524578
+Your number is too low
+An error occurred: For input string: "yellow"
+An error occurred: For input string: ""
+An error occurred: For input string: "**"
